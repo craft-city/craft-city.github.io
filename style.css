@@ -29,7 +29,7 @@ h2 {
 
 h3 {
 	font-family: 'Open Sans', sans-serif;
-	font-size: 20px;
+	font-size: 15px;
 	font-weight: 300;
 	color: #fff;
 	margin-top: 10px;
@@ -39,4 +39,29 @@ h3 {
 #skins {
 	margin-top: 25px;
 	word-spacing: 15px;
+}
+
+#ts-box {
+	border: 1px solid #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 30px;
+	font-weight: 300;
+	color: #fff;
+	margin-top: 10px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 375px;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 10px;
+}
+
+a:hover {
+	color: #797979;
 }
