@@ -1,0 +1,24 @@
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 21px;
+	color: #fff;
+	margin: 0px;
+}
+
+li {
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 15px;
+	color: #fff;
+	margin: 0px;
+}
+
+li a {
+	color: #fff;
+}
+
+li.main {
+	font-weight: 400;
+}
